@@ -1,5 +1,5 @@
 # 安装  
-
+支持所有nodejs方案推荐webhostmost和webfreecloud
 > **注意：** 记得把命令中的 `yourdomain` 改为你真实的域名
 ```bash 
 curl -Ls https://raw.githubusercontent.com/banfeng-git/node-ws/refs/heads/main/setup.sh > setup.sh && chmod +x setup.sh && ./setup.sh yourdomain
